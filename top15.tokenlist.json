@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 2,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -166,5 +166,5 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
         }
     ],
-    "timestamp": "2021-02-09T17:49:00+00:00"
+    "timestamp": "2021-03-28T23:58:01+00:00"
 }
