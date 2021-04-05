@@ -164,6 +164,14 @@
             "name": "YetiSwap",
             "symbol": "YTS",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        },
+          {
+            "chainId": 43113,
+            "address": "0x8AE933C4d5c7c16Ae59EA4Aaf5404B514666D5BF",
+            "decimals": 18,
+            "name": "DahuSwap",
+            "symbol": "DAHU",
+            "logoURI": "ipfs://QmW7ziLUEkpACctcrF4ibAjeCMez7AuimoRsnQTeUocJAm"
         }
     ],
     "timestamp": "2021-03-28T23:58:01+00:00"
